@@ -1,0 +1,25 @@
+Hello! This is all of the videos posted in the Week 1 (1/22-1/28) module!
+
+JavaScript in 100 Seconds:
+    https://learn.vccs.edu/courses/677279/modules/items/51920114
+
+Video Quiz #2: Textbook 1-1:
+    https://learn.vccs.edu/courses/677279/modules/items/51945027
+
+Video Quiz #3: Installing Dev. Software:
+    https://learn.vccs.edu/courses/677279/modules/items/51945300
+
+Video Quiz #4: GitHub Account:
+    https://learn.vccs.edu/courses/677279/modules/items/51946237
+
+Video Quiz #5: GitHub Auth and Signing:
+    https://learn.vccs.edu/courses/677279/modules/items/51946237
+
+Video Quiz #6: Textbook 1-3:
+    https://learn.vccs.edu/courses/677279/modules/items/51945033
+
+Video Quiz #7: Register for FreeCodeCamp:
+    https://learn.vccs.edu/courses/677279/modules/items/51948776
+
+Video Quiz #8: FreeCodeCamp Quizzes in ITP 140:
+    https://learn.vccs.edu/courses/677279/modules/items/51949427
